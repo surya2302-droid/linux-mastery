@@ -38,7 +38,7 @@ will return only the number of lines.  this might be useful in shell scripting
 
 
 # AWK command
-used for  pattern base text processing for fiiles  like csv -> comma separated value
+used for  pattern base text processing like csv -> comma separated value
 
 ```
 awk '{pattern}' filename
