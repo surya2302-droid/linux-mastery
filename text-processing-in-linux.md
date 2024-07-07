@@ -4,7 +4,6 @@
 ### stderr -> means standard errors code is 2
 
 ## To wrtite all erros that occures while running a commands in a specified file
-
 ```
 sudo bash run.sh 2 > errors.txt 
 ```
@@ -39,4 +38,4 @@ will return only the number of lines.  this might be useful in shell scripting
 
 
 # AWK command
-
+used for  pattern base text processing like csv -> comma separated value
